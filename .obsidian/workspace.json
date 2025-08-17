@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "4722b77e1d709db2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1258f20a151b978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "137fb7c5b262635e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投资标的回顾（20250812）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "投资标的回顾（20250812）"
+            }
+          },
+          {
+            "id": "0296bee134ec93cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logic回归模型相关选择.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "logic回归模型相关选择"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07897e994f18d0ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "54cc61ac138a77bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44cf6e25be60b521",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "efcbd435f4430a18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82da16bf9c9fdc8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "870846e4688cfeec",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d8ce1dede5ea4a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53810a2097036267",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b4794a23f7f9affa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fc3c49bd9782c269",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd2608fdfc59b77b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "^.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ^"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0296bee134ec93cb",
+  "lastOpenFiles": [
+    "投资标的回顾（20250812）.md",
+    "logic回归模型相关选择.md",
+    "1fda0d56372e63f1627f285bc0bcb394.png",
+    "Untitled.canvas",
+    "2025-08-09.md",
+    "Welcome.md",
+    "page.md",
+    "create a link.md",
+    "^.md",
+    "ljljl.md",
+    "Untitled"
+  ]
+}
